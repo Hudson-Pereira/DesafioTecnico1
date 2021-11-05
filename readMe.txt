@@ -1,4 +1,5 @@
 Desafio tecnico parte 2 concluido conectado ao MongoDB Local.
+Os testes devem ser realizados utilizando o Thunder Client.
 Esse crud consiste nas quatro rotas básicas: Create, Read, Update e Delete.
 A rota CREATE irá criar os usuários com as informações passadas pelo user, sendo obrigatórias as informações:
 Nome
